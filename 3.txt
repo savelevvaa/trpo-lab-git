@@ -3,4 +3,4 @@ Some text
 
 Some new stuff
 
-
+New row
